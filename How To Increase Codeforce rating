@@ -1,0 +1,39 @@
+https://codeforces.com/blog/entry/81882
+
+jjang36524's blog
+Tutorial and tips to reach Expert.
+
+By jjang36524, history, 4 years ago, In English
+Before the start of the blog, I'd like to thank this blog for motivating me to write it.
+
+However, this blog is quite outdated in many factors like the rating system, and people starting cp in 2020 may have trouble following these. Therefore, I would like to write new tips for doing well in codeforces. The goal is getting to expert, or rating 1600.
+
+I would write this in 3 steps, but the most important thing here is Practicing hard. You won't get to 1600 if you don't practice, you don't have to do it on the blog's way, but you should practice.
+
+Step 1: from 1000(grey) to 1200(green)
+First, read introduction to the new rating system and judge your skill. Note that you'll need to take part in about 5 contests to judge your skill. If your rating is under 1200, read the next part and practice.
+
+If you use div3, you'll need to solve 3 problems in 30 minutes. That means you should solve div3C in 15 minutes. To practice it, you may choose 1000~1200 rated problem and try to solve it in 15 mins. If you have no idea in 15 mins, you should see the editorial.
+
+If you use div2, you'll need to solve 2 problems in 30 minutes. The practice methods are the same, but do it in 1100~1300 rated problems and 20 mins.
+
+You should solve problems until you get to green(it applies to all the other steps.
+
+Step 2: from 1200(green) to 1400(cyan)
+In order to get to cyan, you should know basic dp, greedy, bit operation, and math. Other things such as graph theory are not required to go to cyan.
+
+First, you should learn about the algorithms. First, you need to know the concept of them, and you should practice. Practicing these algorithms can be done by solving 1300~1500 rated problems having these tags. You should see editorials quickly(15 mins) to learn fast.
+
+You need to solve 4 problems in div3(You don't need fast solving) or 2~3 problem in div2(highly depends on difficulty, if it's 2 problems, you need to do fast solving). I would recommend to solve 1300~1600 rated problem(you can tag search them) and try to solve them in 15~30 mins and see editorial after 30 mins.
+
+Step 3: from 1400(cyan) to 1600(blue)
+Rating 1600, or the title "expert", requires quite a lot of algorithm knowledge. You need to know a bit advanced form of former four, graph theory, sorting, and binary search.
+
+Again, you need to study these algorithms, the methods are similar to that of the cyan, but search them in the 1500~1700 range, and see editorial after 25 mins.
+
+Div3 is not an option after 1600, so you should do div2 contests to get to blue. Div2 has varying difficulty, but you should solve 3 problems or more by 90% possibility. You should solve two types of problems. 1400~1600 problems(easy div2c) with fast solving in 15~20 mins. 1700~1800(hard div2c) problems without that much fast solving.
+
+Virtual contest is a nice way to practice from here. You can pick a contest that you haven't seen any of its problems, do a virtual contest, and check your score at this site. You should type contest number, score, and penalty if you did an educational cf virtual contest. Set rating to 1600, and if the rating increase is +, that means you did well.
+
+Conclusion
+As mentioned earlier, practice hard. This is the only common factor that experts have.
